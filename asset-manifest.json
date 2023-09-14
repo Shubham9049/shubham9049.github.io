@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9df66b35.css",
+    "main.js": "/static/js/main.07126ab0.js",
+    "static/js/787.dbbd0357.chunk.js": "/static/js/787.dbbd0357.chunk.js",
+    "static/media/programmer_text_2.jpg": "/static/media/programmer_text_2.acbc454cf190f3fcc9d7.jpg",
+    "static/media/uuu.pdf": "/static/media/uuu.8aff3e78a4f85f4fdcd7.pdf",
+    "static/media/sql.png": "/static/media/sql.23907cc1ec2ba5eef34b.png",
+    "static/media/About.jpg": "/static/media/About.9c86a51003ded0dcbbee.jpg",
+    "static/media/header_.png": "/static/media/header_.1d2ed7c877f708f7d092.png",
+    "static/media/Bootstrap_logo.svg.png": "/static/media/Bootstrap_logo.svg.ca2bd3b63ce84d5327d4.png",
+    "static/media/vijaya.png": "/static/media/vijaya.bb7e0727a71f8821810a.png",
+    "static/media/mypic.jpg": "/static/media/mypic.c5e44ed4f6ba5aa5ab27.jpg",
+    "static/media/hotel.png": "/static/media/hotel.3bb2c3a8fa8bffcfe2f5.png",
+    "static/media/bookmyshow.png": "/static/media/bookmyshow.d0eabc6f4299fb4a5744.png",
+    "static/media/API fetch.png": "/static/media/API fetch.6539d8b842fe14cab36c.png",
+    "static/media/mongo.png": "/static/media/mongo.95ebe78cca60e67709b4.png",
+    "static/media/destination.png": "/static/media/destination.78cc198e600a64c10b04.png",
+    "static/media/molecule.png": "/static/media/molecule.8a4efc7565f262bf05c0.png",
+    "static/media/images_2.png": "/static/media/images_2.007e99f68b718e476aba.png",
+    "static/media/css.png": "/static/media/css.02d225c7df0b28341d8d.png",
+    "static/media/api.png": "/static/media/api.3b1f22a2427ec70c0742.png",
+    "static/media/express.png": "/static/media/express.39a0f4c3d981885c64f8.png",
+    "static/media/mailtrap.png": "/static/media/mailtrap.59d294770c04e6ba5051.png",
+    "static/media/pvr.jpg": "/static/media/pvr.f95fc693bac25767bc53.jpg",
+    "static/media/html.png": "/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/Todo.png": "/static/media/Todo.dc5cc182f640ca32e818.png",
+    "static/media/png-transparent-jquery-hd-logo.png": "/static/media/png-transparent-jquery-hd-logo.bf7b1d532ddf3126c62a.png",
+    "index.html": "/index.html",
+    "main.9df66b35.css.map": "/static/css/main.9df66b35.css.map",
+    "main.07126ab0.js.map": "/static/js/main.07126ab0.js.map",
+    "787.dbbd0357.chunk.js.map": "/static/js/787.dbbd0357.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9df66b35.css",
+    "static/js/main.07126ab0.js"
+  ]
+}
